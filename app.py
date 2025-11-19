@@ -155,5 +155,3 @@ if btn:
             """)
 
     st.success("완료 🎉")
-
-streamlit run app.py
